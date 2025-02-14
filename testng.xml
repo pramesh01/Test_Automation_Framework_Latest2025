@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test" parallel="methods" thread-count="4">
+  <parameter name="browser" value="${browserName}"/>
+  <parameter name="isLamdaTestEnabled" value="${isLambdaTestEnabled}"/>
+  <parameter name="isHeadlessEnabled" value="${isHeadlesModeEnabled}"/>
+    <classes>
+      <class name="com.ui.tests.LoginTest3"> </class>
+      <class name="com.ui.tests.LoginTest_InvalidCredentials"> </class>
+      <class name="com.ui.tests.AddNewFirstAddressTest"> </class>
+      <class name="com.ui.tests.SearchProductTest"> </class>
+      <class name="com.ui.tests.ProductCheckoutTest"> </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

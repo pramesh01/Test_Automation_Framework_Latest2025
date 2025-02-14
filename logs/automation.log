@@ -1,0 +1,170 @@
+2025-02-13 22:29:51 [main] INFO com.ui.listeners.TestListener::onStart::65 Test Suite Started  
+2025-02-13 22:29:52 [TestNG-test-Test-4] INFO com.ui.tests.AddNewFirstAddressTest::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:29:52 [TestNG-test-Test-3] INFO com.ui.tests.LoginTest_InvalidCredentials::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:29:52 [TestNG-test-Test-1] INFO com.ui.tests.LoginTest3::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:29:53 [TestNG-test-Test-2] INFO com.ui.tests.LoginTest3::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:29:58 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:29:58 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:29:58 [TestNG-test-Test-4] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:29:58 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:29:59 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:29:59 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:29:59 [TestNG-test-Test-4] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:29:59 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:00 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginCSVTest 
+2025-02-13 22:30:00 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login through csv file 
+2025-02-13 22:30:00 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:00 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:03 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginExcelTest_invalidCredentials 
+2025-02-13 22:30:03 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login for invalid users 
+2025-02-13 22:30:03 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:03 [TestNG-test-Test-3] INFO com.ui.tests.LoginTest_InvalidCredentials::loginExcelTest_invalidCredentials::23 @test starting , login with invalid user data 
+2025-02-13 22:30:03 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:03 [TestNG-test-Test-4] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:03 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginExcelTest 
+2025-02-13 22:30:03 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login through excel sheet 
+2025-02-13 22:30:03 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:03 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:04 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:04 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::doLoginWithInvalidCredentials::33 doing login with the invalid credentials..logger. 
+2025-02-13 22:30:04 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pramesh.cs@hotmail.com 
+2025-02-13 22:30:04 [TestNG-test-Test-4] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:04 [TestNG-test-Test-4] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:04 [TestNG-test-Test-4] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > bloggerdelhi123@gmail.com 
+2025-02-13 22:30:05 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > DEMO12345 
+2025-02-13 22:30:05 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:05 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:05 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > bloggerdelhi123@gmail.com 
+2025-02-13 22:30:05 [TestNG-test-Test-4] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > Password 
+2025-02-13 22:30:05 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:05 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:05 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > bloggerdelhi123@gmail.com 
+2025-02-13 22:30:05 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > Password 
+2025-02-13 22:30:05 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > Password 
+2025-02-13 22:30:06 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:06 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestSuccess::38 loginExcelTest_invalidCredentials  -> Passed 
+2025-02-13 22:30:06 [TestNG-test-Test-3] INFO com.ui.tests.SearchProductTest::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:30:06 [TestNG-test-Test-4] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:06 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:06 [TestNG-test-Test-2] INFO com.ui.pages.MyaccountPage::getUserName::23 getting username - logger on page classes 
+2025-02-13 22:30:06 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestSuccess::38 loginExcelTest  -> Passed 
+2025-02-13 22:30:07 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:07 [TestNG-test-Test-1] INFO com.ui.pages.MyaccountPage::getUserName::23 getting username - logger on page classes 
+2025-02-13 22:30:07 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestSuccess::38 loginCSVTest  -> Passed 
+2025-02-13 22:30:07 [TestNG-test-Test-2] INFO com.ui.tests.ProductCheckoutTest::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:30:07 [TestNG-test-Test-1] INFO com.ui.tests.LoginTest3::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:30:08 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:30:08 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:09 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:30:09 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:09 [TestNG-test-Test-4] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...addNewAddress 
+2025-02-13 22:30:09 [TestNG-test-Test-4] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ... 
+2025-02-13 22:30:09 [TestNG-test-Test-4] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[] 
+2025-02-13 22:30:09 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:09 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:30:09 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:13 [TestNG-test-Test-3] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:13 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:13 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > bloggerdelhi123@gmail.com 
+2025-02-13 22:30:13 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:13 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > Password 
+2025-02-13 22:30:14 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginCSVTest 
+2025-02-13 22:30:14 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login through csv file 
+2025-02-13 22:30:14 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:14 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:15 [TestNG-test-Test-2] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:15 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:15 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > bloggerdelhi123@gmail.com 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...verifyproductsearchTest 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifying product search 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[smoke, e2e, sanity] 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.pages.MyaccountPage::searchforProduct::28 searching for the product Printed Summer Dress 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.pages.MyaccountPage::enterText::123 Entering the text into UI  > Printed Summer Dress 
+2025-02-13 22:30:15 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > Password 
+2025-02-13 22:30:15 [TestNG-test-Test-3] INFO com.ui.pages.MyaccountPage::enterSpecialKey::129 Entering the special Key  >  
+2025-02-13 22:30:15 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:15 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:15 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pramesh.cs@gmail.com 
+2025-02-13 22:30:15 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pasDemos123 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getALLVisibleText::139 Returning the text of all visible elements  
+2025-02-13 22:30:16 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:16 [TestNG-test-Test-1] INFO com.ui.pages.MyaccountPage::getUserName::23 getting username - logger on page classes 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getALLVisibleText::141 Returning list of the items. 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Chiffon Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.pages.SearchResultPage::getVisibleText::159 Returning the list of webelements..Printed Chiffon Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-2] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:16 [TestNG-test-Test-2] INFO com.ui.pages.MyaccountPage::searchforProduct::28 searching for the product Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-2] INFO com.ui.pages.MyaccountPage::enterText::123 Entering the text into UI  > Printed Summer Dress 
+2025-02-13 22:30:16 [TestNG-test-Test-3] INFO com.ui.listeners.TestListener::onTestSuccess::38 verifyproductsearchTest  -> Passed 
+2025-02-13 22:30:17 [TestNG-test-Test-2] INFO com.ui.pages.MyaccountPage::enterSpecialKey::129 Entering the special Key  >  
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...checkoutTest 
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...complete checkout process 
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[smoke, e2e, sanity] 
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.pages.SearchResultPage::getAllElements::151 Returning all the visible elements  
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.pages.SearchResultPage::getAllElements::153 Returning list of the all elements. 
+2025-02-13 22:30:18 [TestNG-test-Test-2] INFO com.ui.pages.SearchResultPage::clickon::118 clicking on webelement >  
+2025-02-13 22:30:19 [TestNG-test-Test-4] ERROR com.ui.listeners.TestListener::onTestFailure::44 addNewAddress  -> Test Failed 
+2025-02-13 22:30:19 [TestNG-test-Test-4] ERROR com.ui.listeners.TestListener::onTestFailure::45 no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Add my first address']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27c55784a436a59e82439817ac2a3471, findElement {using=xpath, value=//a[@title='Add my first address']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\prame\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58045}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58045/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27c55784a436a59e82439817ac2a3471 
+2025-02-13 22:30:21 [TestNG-test-Test-2] INFO com.ui.pages.ProductDetailPage::selectFromDropDown::179  selecting from drop down By.id: group_1 
+2025-02-13 22:30:21 [TestNG-test-Test-2] INFO com.ui.pages.ProductDetailPage::selectFromDropDown::181 drop down item found and selected.. By.id: group_1 
+2025-02-13 22:30:22 [TestNG-test-Test-2] INFO com.ui.pages.ProductDetailPage::clickon::114 clicked on element on UI successfully > By.name: Submit 
+2025-02-13 22:30:24 [TestNG-test-Test-2] INFO com.ui.pages.ProductDetailPage::clickon::114 clicked on element on UI successfully > By.xpath: //a[@title='Proceed to checkout'] 
+2025-02-13 22:30:25 [TestNG-test-Test-2] INFO com.ui.pages.ShoppingCartSummaryPage::clickon::114 clicked on element on UI successfully > By.xpath: (//a[@title='Proceed to checkout'])[2] 
+2025-02-13 22:30:25 [TestNG-test-Test-2] INFO com.ui.pages.BillingAddressPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@name='processAddress'] 
+2025-02-13 22:30:26 [TestNG-test-Test-2] INFO com.ui.pages.ShipingPage::clickon::114 clicked on element on UI successfully > By.id: cgv 
+2025-02-13 22:30:26 [TestNG-test-Test-1] WARN com.ui.listeners.TestListener::onTestSkipped::59 loginCSVTest  -> Test Skipped 
+2025-02-13 22:30:26 [TestNG-test-Test-1] INFO com.ui.tests.LoginTest3::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:30:27 [TestNG-test-Test-2] INFO com.ui.pages.ShipingPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@name='processCarrier'] 
+2025-02-13 22:30:27 [TestNG-test-Test-2] INFO com.ui.pages.PaymentPage::clickon::114 clicked on element on UI successfully > By.xpath: //*[@title='Pay by bank wire'] 
+2025-02-13 22:30:28 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:30:28 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:32 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginCSVTest 
+2025-02-13 22:30:32 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login through csv file 
+2025-02-13 22:30:32 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:32 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:33 [TestNG-test-Test-2] INFO com.ui.pages.OrderSummaryPage::clickon::114 clicked on element on UI successfully > By.xpath: //*[@id='cart_navigation']/button/span 
+2025-02-13 22:30:33 [TestNG-test-Test-2] INFO com.ui.listeners.TestListener::onTestSuccess::38 checkoutTest  -> Passed 
+2025-02-13 22:30:33 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:33 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:33 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pramesh.cs@gmail.com 
+2025-02-13 22:30:34 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pasDemos123 
+2025-02-13 22:30:34 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:34 [TestNG-test-Test-1] INFO com.ui.pages.MyaccountPage::getUserName::23 getting username - logger on page classes 
+2025-02-13 22:30:44 [TestNG-test-Test-1] WARN com.ui.listeners.TestListener::onTestSkipped::59 loginCSVTest  -> Test Skipped 
+2025-02-13 22:30:44 [TestNG-test-Test-1] INFO com.ui.tests.LoginTest3::setup::38 Loading homepag of HomePage Class. 
+2025-02-13 22:30:46 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::maximizeBrowser::107 maximizing the browser. 
+2025-02-13 22:30:46 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotowebsite::103 navigation towards website though logger http://www.automationpractice.pl 
+2025-02-13 22:30:50 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::29 test started ...loginCSVTest 
+2025-02-13 22:30:50 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::30 test description is ...verifies login through csv file 
+2025-02-13 22:30:50 [TestNG-test-Test-1] INFO com.ui.listeners.TestListener::onTestStart::31 test group information is..[e2e, sanity] 
+2025-02-13 22:30:50 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::gotoLoginPage::30 navigating to LoginPage with logger 
+2025-02-13 22:30:51 [TestNG-test-Test-1] INFO com.ui.pages.HomePage::clickon::114 clicked on element on UI successfully > By.xpath: //a[contains(text(),'Sign in')] 
+2025-02-13 22:30:51 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::doLoginWith::24 doing login with the credentials..logger. 
+2025-02-13 22:30:51 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pramesh.cs@gmail.com 
+2025-02-13 22:30:51 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::enterText::123 Entering the text into UI  > pasDemos123 
+2025-02-13 22:30:52 [TestNG-test-Test-1] INFO com.ui.pages.LoginPage::clickon::114 clicked on element on UI successfully > By.xpath: //button[@id='SubmitLogin'] 
+2025-02-13 22:30:52 [TestNG-test-Test-1] INFO com.ui.pages.MyaccountPage::getUserName::23 getting username - logger on page classes 
+2025-02-13 22:31:02 [TestNG-test-Test-1] ERROR com.ui.listeners.TestListener::onTestFailure::44 loginCSVTest  -> Test Failed 
+2025-02-13 22:31:02 [TestNG-test-Test-1] ERROR com.ui.listeners.TestListener::onTestFailure::45 no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09b035532948cc49c9ebc5a4225a0e47, findElement {using=xpath, value=//a[@title='View my customer account']/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\prame\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58267}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58267/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09b035532948cc49c9ebc5a4225a0e47 
+2025-02-13 22:31:02 [main] INFO com.ui.listeners.TestListener::onFinish::71 Test Suite Completed.. 
